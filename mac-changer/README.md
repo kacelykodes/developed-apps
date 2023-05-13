@@ -25,6 +25,8 @@ chmod +x mac-changer.py
 or
 ```
 ./mac-changer.py --interface eth0 --mac <new-mac-address>
+```
 
 
+![Screenshot (341)](https://github.com/kacelykodes/developed-apps/assets/103781218/d1333ad5-f915-4677-a053-af1e853376f6)
 
